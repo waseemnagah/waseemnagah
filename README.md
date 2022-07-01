@@ -1,6 +1,6 @@
 ## Hi, I'm John Aziz! 👋
 
-[![Twitter: John0Isaac](https://img.shields.io/twitter/follow/John0Isaac?style=social)](https://twitter.com/John0Isaac)
+[![Twitter: John00Isaac](https://img.shields.io/twitter/follow/John00Isaac?style=social)](https://twitter.com/John00Isaac)
 [![Linkedin: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/John0Isaac/)](https://www.linkedin.com/in/John0Isaac/)
 [![GitHub John0Isaac](https://img.shields.io/github/followers/John0Isaac?label=follow&style=social)](https://github.com/John0Isaac)
 
