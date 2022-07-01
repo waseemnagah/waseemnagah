@@ -2,10 +2,10 @@
 
 [![Twitter: John00Isaac](https://img.shields.io/twitter/follow/John00Isaac?style=social)](https://twitter.com/John00Isaac)
 [![Linkedin: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/John0Isaac/)](https://www.linkedin.com/in/John0Isaac/)
+&nbsp;
 [![GitHub John0Isaac](https://img.shields.io/github/followers/John0Isaac?label=follow&style=social)](https://github.com/John0Isaac)
 [![Facebook: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/John0Isaac/)](https://www.facebook.com/John0Isaac/)
 
-&nbsp;
 
 A Passionate Full Stack Developer ⚡ and a Computer Engineering Undergrad in Modern Academy for Engineering 🎓. I love building cool stuffs and exploring new technologies. Interested in Cloud computing ☁️, Machine Learning,  DevOps, Open Source 📜, Innovation and Automation 🤖
 
