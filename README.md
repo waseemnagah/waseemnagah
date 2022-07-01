@@ -43,3 +43,5 @@ A Passionate Full Stack Developer ⚡ and a Computer Engineering Undergrad in Mo
 
 
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=John0Isaac&show_icons=true&theme=dracula)
+
+![John's github streak](https://github-readme-streak-stats.herokuapp.com/?user=John0Isaac&show_icons=true&theme=dracula)
