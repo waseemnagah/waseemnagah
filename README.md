@@ -3,20 +3,7 @@
 [![Twitter: John00Isaac](https://img.shields.io/twitter/follow/John00Isaac?style=social)](https://twitter.com/John00Isaac)
 [![Linkedin: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/John0Isaac/)](https://www.linkedin.com/in/John0Isaac/)
 [![GitHub John0Isaac](https://img.shields.io/github/followers/John0Isaac?label=follow&style=social)](https://github.com/John0Isaac)
-
-<br />
-<a href="https://www.facebook.com/john0isaac/">
-  <img align="left" alt="John's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/john00isaac">
-  <img align="left" alt="John Aziz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/john0isaac/">
-  <img align="left" alt="John's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/john0isaac/">
-  <img align="left" alt="John's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Facebook: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/John0Isaac/)](https://www.facebook.com/John0Isaac/)
 
 &nbsp;
 
