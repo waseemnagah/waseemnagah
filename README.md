@@ -37,9 +37,10 @@ A Passionate Full Stack Developer ⚡ and a Computer Engineering Undergrad in Mo
 ## ✨ My Github Streaks and Achivments ✨
 <details>
   <summary><b>🔥 Streak Stats </b></summary>
-![John's github stats](https://github-readme-stats.vercel.app/api?username=John0Isaac&show_icons=true&theme=normal)
 
-![John's github streak](https://github-readme-streak-stats.herokuapp.com/?user=John0Isaac&show_icons=true&theme=normal)
+  ![John's github stats](https://github-readme-stats.vercel.app/api?username=John0Isaac&show_icons=true&theme=normal)
+
+  ![John's github streak](https://github-readme-streak-stats.herokuapp.com/?user=John0Isaac&show_icons=true&theme=normal)
 
 </details>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
