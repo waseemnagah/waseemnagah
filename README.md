@@ -34,6 +34,21 @@ A Passionate Full Stack Developer ⚡ and a Computer Engineering Undergrad in Mo
 
 ## 🛠️ Tools & Platforms I use:
 
+## 💭 Quote of the day
+<details>
+  <summary>See quote</summary>
+  
+  ![quotes card](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=normal)
+</details>
+
+## 😂 Joke of the day
+<details>
+  <summary>See joke</summary>
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=normal)
+
+</details>
+
 ## ✨ My Github Streaks and Achivments ✨
 <details>
   <summary><b>🔥 Streak Stats </b></summary>
